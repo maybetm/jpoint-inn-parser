@@ -8,7 +8,7 @@
 
 [Парсер](src/main/java/com/maybetm/inn/parser/ParserImpl.java)
 
-[Тесты](src/test/java/com/maybetm/inn/parser/ParserImplTest)
+[Тесты](src/test/java/com/maybetm/inn/parser/ParserImplTest.java)
 
 >mvn test
 
