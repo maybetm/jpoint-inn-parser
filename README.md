@@ -1,9 +1,14 @@
 ## jpoint-inn-parser
 
-Второй день JPoint
+Второй день JPoint 2020
+
 ![App Screenshot](img/Raif_Task_2.png)
 
-Запуск тестов
+[Перечисление чисел](src/main/java/com/maybetm/inn/parser/common/ECustomNumber.java)
+[Парсер](src/main/java/com/maybetm/inn/parser/ParserImpl.java)
+
+[Тесты](src/test/java/com/maybetm/inn/parser/ParserImplTest)
+
 >mvn test
 
 
